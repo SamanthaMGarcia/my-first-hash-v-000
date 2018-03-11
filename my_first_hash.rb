@@ -1,8 +1,6 @@
 def my_hash
   your_hash{"Name" => "Samantha", "Sign" => "Taurus"}
-  
-
-  
+  "Name"
 end
 
 
